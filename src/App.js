@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Sidebar from './Components/Sidebar';
+import Navbar  from './Components/Navbar';
+import Prev from './Components/Prev';
+import Form from './Components/Form';
+import Topheader from './Components/TopHeader';
+import Modal from './Components/Modal';
+import './Components/Style.css';
+import { LinkData } from './Components/LinkData';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+      <Sidebar />
+      <Topheader />
+      <LinkData />
+      <Navbar />
+      <Prev />
+      <Form />
+      <Modal />
+   </>
   );
 }
 
