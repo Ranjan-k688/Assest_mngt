@@ -20,7 +20,7 @@ function App() {
     <Navbar />
     <Prev />
     <Form />
-    <Button />
+    <Button /> 
    
     </>
   );

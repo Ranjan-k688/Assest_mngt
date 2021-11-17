@@ -1,3 +1,4 @@
+import { Button } from "./Button";
 const Form = () =>{
 
 	const data = (e) =>{
@@ -134,7 +135,9 @@ const Form = () =>{
 			
 			</form>
 
-            
+            <div>
+				<Button/>
+			</div>
         </>
     )
 }

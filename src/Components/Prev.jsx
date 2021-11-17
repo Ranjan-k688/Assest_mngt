@@ -39,9 +39,9 @@ const Prev = () =>{
                     <div className="col-sm-3 col-md-3 col-lg-3 col-xxl-3 col-3">
                        
                     </div>
-                    <div className="col-sm-3 col-md-3 col-lg-3 col-xxl-3 col-3">
-                        <div className="image mt-3">
-                           
+                    <div className="col-sm-3 col-md-3 col-lg-3 col-xxl-3 col-3" >
+                        <div className="image mt-3 placeholder" >
+                            <p>Preview</p>                           
                         </div>
                     </div>
                 </div>

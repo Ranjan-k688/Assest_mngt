@@ -48,24 +48,28 @@
 }
 .top-header{
   width: 85%;
-  background: rgb(255, 255, 255);
+  background: rgb(252, 251, 249);
 }
 .Prev-form{
   width: 85%;
-  background: rgb(216, 197, 161);
+  background:  rgb(238, 187, 78);
   float: right;
   height: 210px;
 }
 .image{
-  width: 200px;
-  height: 130px;
-  background: rgb(230, 197, 197);
+  width: 330px;
+  height: 150px;
+  background: rgb(235, 200, 148);
+  border-image-outset: 3px;
 }
-.form{
-  width: 85%;
-  background: rgb(199, 136, 11);
-  float: right;
-  background-color: rgb(255, 251, 247);
+.image p{
+  text-align: center;
+  font-size: 30px;
+  font-style: inherit;
+  font-weight: bold;
+}
+form{
+  background-color: yellow;
 }
 label{
   color: black;
@@ -84,11 +88,23 @@ label{
   width: 85%;
   float: right;
 }
-.btn-cancel{
-  float: right;
-}
+
 .endbutton{
   float: right;
-  padding: 5px;
+  padding: 10px;
   
+}
+button{
+  font-weight: bold;
+  padding: 5px;
+}
+#cancel:hover{
+  color:black;
+  background-color: rgb(214, 108, 8);
+ 
+}
+#submit:hover{
+  color:black;
+  background-color: rgb(214, 108, 8);
+ 
 }

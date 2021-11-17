@@ -8,8 +8,8 @@ export const Button = () => {
              </div>
             <div className="endbutton" >
                
-                <button >CANCEL</button>&nbsp; &nbsp;
-                <button>SUBMIT</button>
+                <button id="cancel" >CANCEL</button>&nbsp; &nbsp;
+                <button id="submit">SUBMIT</button>
             </div>
         </>
     )
