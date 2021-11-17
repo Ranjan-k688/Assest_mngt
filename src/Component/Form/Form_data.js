@@ -287,3 +287,5 @@ const Form_data = () =>{
 };
 
 export default Form_data;
+
+{/* display data in console */}

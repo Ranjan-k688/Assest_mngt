@@ -10,14 +10,14 @@
 }
 .side{
     background-color: darkgrey;
-    color: rgb(128, 32, 32);
+    color: rgb(122, 36, 36);
     font-size: 18px;
 }
 .select{
     background-color:darkgrey ;
 }
 li{
-    text-emphasis-color: red;
+    text-emphasis-color: rgb(179, 24, 24);
 }
 .btn{
     text-align: center;
