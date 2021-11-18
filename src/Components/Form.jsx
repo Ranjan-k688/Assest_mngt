@@ -38,11 +38,30 @@ const Form = () =>{
     return(
         <>
 			<form onSubmit={data}>
+<<<<<<< HEAD
+			<div class="row form-width">
+=======
 				<div class="row form-width">
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
 				<div class="col-sm-6 col-md-6 col-lg-6 col-6">
 					<div class="row">
 						<div class="col-sm-6 col-md-6 col-lg-6 col-6">
 							<div class="form-group">
+<<<<<<< HEAD
+								<label>Asset Long desc</label>
+								<input type="text" name="asset_long" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>location id</label>
+								<input type="text" name="location" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>Asset type id</label>
+								<input type="text" name="asset_type" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>Faiture class id</label>
+=======
 								<label>Asset Long Desc</label>
 								<input type="text" name="asset_long" class="form-control"></input>
 							</div>
@@ -56,11 +75,23 @@ const Form = () =>{
 							</div>
 							<div class="form-group">
 								<label>Faiture Class_id</label>
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
 								<input type="text" name="faiture" class="form-control"></input>
 							</div>
 						</div>
 						<div class="col-sm-6 col-md-6 col-lg-6 col-6">
 							<div class="form-group">
+<<<<<<< HEAD
+								<label>parent id</label>
+								<input type="text" name="parent" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>Asset category id </label>
+								<input type="text" name="asset_cat" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>periority id</label>
+=======
 								<label>Parent_id</label>
 								<input type="text" name="parent" class="form-control"></input>
 							</div>
@@ -70,6 +101,7 @@ const Form = () =>{
 							</div>
 							<div class="form-group">
 								<label>Periority_id</label>
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
 								<input type="text" name="asset_peri" class="form-control"></input>
 							</div>
 						</div>
@@ -79,6 +111,21 @@ const Form = () =>{
 					<div class="row">
 						<div class="col-sm-6 col-md-6 col-lg-6 col-6">
 							<div class="form-group">
+<<<<<<< HEAD
+								<label>serial id</label>
+								<input type="text" name="asset_serial" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>purchase price</label>
+								<input type="text" name="asset_pur" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>supplier </label>
+								<input type="text" name="asset_supl" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>VTD cost</label>
+=======
 								<label>Serial id</label>
 								<input type="text" name="asset_serial" class="form-control"></input>
 							</div>
@@ -92,6 +139,7 @@ const Form = () =>{
 							</div>
 							<div class="form-group">
 								<label>VTD Cost</label>
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
 								<input type="text" name="asset_VTDC" class="form-control"></input>
 							</div>
 							<div class="form-group">
@@ -101,6 +149,21 @@ const Form = () =>{
 						</div>
 						<div class="col-sm-6 col-md-6 col-lg-6 col-6">
 							<div class="form-group">
+<<<<<<< HEAD
+								<label>model</label>
+								<input type="text" name="asset_model" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>installation date</label>
+								<input type="date" name="asset_date" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>manufacture</label>
+								<input type="text" name="asset_manu" class="form-control"></input>
+							</div>
+							<div class="form-group">
+								<label>LTD cost</label>
+=======
 								<label>Model</label>
 								<input type="text" name="asset_model" class="form-control"></input>
 							</div>
@@ -114,6 +177,7 @@ const Form = () =>{
 							</div>
 							<div class="form-group">
 								<label>LTD Cost</label>
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
 								<input type="text" name="asset_cost" class="form-control"></input>
 							</div>
 							<div>

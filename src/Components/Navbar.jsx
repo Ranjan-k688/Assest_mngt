@@ -26,7 +26,11 @@ const Navbar = () => {
                         <a class="nav-link" href="#">Assigned to</a>
                         </li>
                         
+<<<<<<< HEAD
+                        <li class="nav-item dropdown">
+=======
                         {/* <li class="nav-item dropdown">
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Dropdown
                         </a>
@@ -36,7 +40,11 @@ const Navbar = () => {
                             <li><hr class="dropdown-divider"></hr></li>
                             <li><a class="dropdown-item" href="#">Something else here</a></li>
                         </ul>
+<<<<<<< HEAD
+                        </li>
+=======
                         </li> */}
+>>>>>>> 9e39631b48038d040cae9e4de84a493a66cbf017
                     </ul>
                     </div>
                 </div>
