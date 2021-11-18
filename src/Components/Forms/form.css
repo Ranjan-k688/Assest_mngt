@@ -1,0 +1,33 @@
+
+.list{
+    background-color: burlywood;
+}
+.form{
+    background-color: cornsilk;
+}
+.h{
+    color: rgb(21, 117, 117);
+}
+.side{
+    background-color: darkgrey;
+    color: rgb(122, 36, 36);
+    font-size: 20px;
+}
+.select{
+    background-color:darkgrey ;
+}
+li{
+    text-emphasis-color: rgb(179, 24, 24);
+}
+.btn{
+    text-align: center;
+    padding-left: 200px;
+    
+}
+button{
+    width: 100px;
+    height: 35px;
+    background-color: blue;
+    color: cornsilk;
+    font-size: 21px;
+}

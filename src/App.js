@@ -1,3 +1,12 @@
+
+import Form_data from './Components/Forms/Form_data';
+
+
+function App() {
+  return (
+    <div className="App">
+      <Form_data/>
+    </div>
 import Sidebar from './Components/Sidebar';
 import Navbar  from './Components/Navbar';
 import Prev from './Components/Prev';
