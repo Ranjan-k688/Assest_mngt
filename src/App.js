@@ -1,3 +1,16 @@
+import logo from './logo.svg';
+import './App.css';
+import Form_data from './Component/Form/Form_data';
+
+function App() {
+  return (
+    <div className="App">
+      <Form_data/>
+    </div>
+  );
+}
+
+export default App;
 import Sidebar from './Components/Sidebar';
 import Navbar  from './Components/Navbar';
 import Prev from './Components/Prev';
