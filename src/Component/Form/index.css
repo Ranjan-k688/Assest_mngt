@@ -6,12 +6,12 @@
     background-color: cornsilk;
 }
 .h{
-    color: darkcyan;
+    color: rgb(21, 117, 117);
 }
 .side{
     background-color: darkgrey;
     color: rgb(122, 36, 36);
-    font-size: 18px;
+    font-size: 20px;
 }
 .select{
     background-color:darkgrey ;
@@ -29,5 +29,5 @@ button{
     height: 35px;
     background-color: blue;
     color: cornsilk;
-    font-size: 20px;
+    font-size: 21px;
 }
