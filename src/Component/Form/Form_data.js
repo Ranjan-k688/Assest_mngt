@@ -199,14 +199,17 @@ const Form_data = () =>{
 	    <label for="name">Asset long desc</label>
 	    <input type="text" class="form-control" placeholder="......." name="Asset_long_desc" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">Location ID</label>
 	    <input type="text" class="form-control" placeholder="......." name="Location_ID" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">Asset Type ID</label>
 	    <input type="text" class="form-control" placeholder="......." name="Asset_Type_ID" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">Failure class ID</label>
 	    <input type="text" class="form-control" placeholder="......." name="Failure_class_ID" id="f"/ >
@@ -218,10 +221,12 @@ const Form_data = () =>{
 	    <label for="name">Parent Id</label>
 	    <input type="text" class="form-control" placeholder="......." name="Parent_Id" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">Asset category ID</label>
 	    <input type="text" class="form-control" placeholder="......." name="Asset_category_ID" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">Priority ID</label>
 	    <input type="text" class="form-control" placeholder="......." name="Priority_ID" id="f"/ >
@@ -233,14 +238,18 @@ const Form_data = () =>{
 	    <label for="name">Serial number</label>
 	    <input type="text" class="form-control" placeholder="......." name="Serial_number" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">Purchase Price</label>
 	    <input type="text" class="form-control" placeholder="......." name="Purchase_Price" id="f"/ >
 	      </div>
+
           <div class="form-group">
+            
 	    <label for="name">Supplier</label>
 	    <input type="text" class="form-control" placeholder="......." name="Supplier" id="f"/ >
 	      </div>
+
           <div class="form-group">
 	    <label for="name">YID cost</label>
 	    <input type="text" class="form-control" placeholder="......." name="YID_cost" id="f"/ >
