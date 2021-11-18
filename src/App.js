@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Call from "./Components/Forms/Call";
+
+import Form_data from './Components/Forms/Form_data';
 
 
 function App() {
   return (
     <div className="App">
-      <Call/>
+      <Form_data/>
     </div>
   );
 }
